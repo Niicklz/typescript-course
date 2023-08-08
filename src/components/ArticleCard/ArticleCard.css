@@ -1,0 +1,28 @@
+.article-card-container img {
+  width: 120px;
+  height: 160px;
+  object-fit: contain;
+}
+.article-card-container {
+  display: flex;
+  gap: 1.3rem;
+  align-items: center;
+}
+
+.article-card-container .number {
+  font-size: 2rem;
+  opacity: 0.4;
+}
+
+.article-card-container h4 {
+  font-weight: 700;
+  font-size: 1rem;
+}
+.article-card-container div {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.article-card-container .description {
+  font-size: 0.8rem;
+}

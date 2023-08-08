@@ -1,0 +1,20 @@
+.title-white {
+  color: hsl(36, 100%, 99%);
+}
+
+.title-blue {
+  color: hsl(240, 100%, 5%);
+}
+.title-orange {
+  color: hsl(35, 77%, 62%);
+}
+
+.title-sm {
+  font-size: 1rem;
+}
+.title-md {
+  font-size: 1.5rem;
+}
+.title-bg {
+  font-size: 2rem;
+}
